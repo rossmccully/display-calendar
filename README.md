@@ -1,5 +1,5 @@
 # display-calendar
-A simple program which allows users to interact with a calendar based application through a console application. User can select to enter the date (including year, month, day and week day) and then choose a menu option to display the calendar for the month. They can also display information about the date such as whether it's a leap year.
+A simple program which allows users to interact with a calendar based application through the console. User can select to enter the date (including year, month, day and week day) and then choose a menu option to display the calendar for the month. They can also display information about the date such as whether it's a leap year.
 
 ## Getting Started
 
