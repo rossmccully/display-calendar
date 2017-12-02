@@ -22,7 +22,7 @@ Java SE Development Kit 8+
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-##About repository
+## About repository
 
 This project was created as part of a Foundation Degree assignment.
 
